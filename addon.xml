@@ -19,7 +19,7 @@
         <description lang="en">[COLOR limegreen]OT[/COLOR]TV offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://www.github.com/a4k-openproject/plugin.program.openwizard/</source>
+        <source>https://github.com/SOOTTV/plugin.program.ottv/</source>
         <news>
 2.0.7
  - Fix Error when using default log settings
